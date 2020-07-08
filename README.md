@@ -1,2 +1,2 @@
 # Restaurant-Automation
-A basic brief information of how to get optimized in restaurant systems. 
+A basic brief information of how to get optimization in restaurant systems. 
